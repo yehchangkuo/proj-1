@@ -9,7 +9,8 @@ extern QLength WheelDiameter;
 extern QLength WheelBase ;
 extern QLength TrackingWDiameter ;
 extern QLength TrackingWBase ;
-extern QLength MiddleWheel ;
+extern QLength XTrackingWDiameter ;
+extern QLength XTrackingWBase;
 
 extern double MAXVELOCITY ;
 extern double MAXVOLTAGE ;
